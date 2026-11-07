@@ -1,0 +1,16 @@
+VOG WORLD — 16 INDEPENDENT PADS / 160 WORLD-INSPIRED SOUNDS
+
+1. Create a new GitHub repository named VOG-World.
+2. Upload VOG-World-v1.1.0-GitHub-Ready.zip intact to its root. Commit.
+3. Create .github/workflows/main.yml.
+4. Paste ALL text from VOG-World-v1.1.0-main.yml. Commit.
+5. Actions -> VOG World Windows Build -> wait for the build and tests.
+6. If green, download VOG-World-Windows-x64 under Artifacts.
+7. Extract the download and any inner ZIP.
+8. Copy VOG World.vst3 into C:\Program Files\Common Files\VST3.
+9. Restart/rescan your DAW and load VOG World as an INSTRUMENT.
+10. Select a pad to choose its instrument and adjust its ADSR, rotary filter and FX. Press PLAY / ARM PADS for autoplay.
+
+README.md explains recording, optional audio input routing, sample loading, Save WAV, Save Pad and Save Kit. Factory patches need no sample downloads. Source project compilation/audio validation still needs the Windows build.
+
+VERSION 1.1.0: in Reason 14 with an MPD218, select Pad controller / MPD218. Use LEARN PAD if the hardware note numbers differ. For the updated drum sounds use a fresh instance or reload the factory patch; old songs retain their previous effects/settings. LOAD SAMPLE imports and auditions a file. REC -> play pads -> STOP REC -> USE / PLAY REC. REC defaults to VOG full mix.

@@ -1,0 +1,164 @@
+# 160 World-Inspired Presets
+
+40 instrument inspirations, four synthesis variations each: Natural, Soft, Bright and Space.
+
+- 001 / Koto / Natural — Asia
+- 002 / Koto / Soft — Asia
+- 003 / Koto / Bright — Asia
+- 004 / Koto / Space — Asia
+- 005 / Guzheng / Natural — Asia
+- 006 / Guzheng / Soft — Asia
+- 007 / Guzheng / Bright — Asia
+- 008 / Guzheng / Space — Asia
+- 009 / Pipa / Natural — Asia
+- 010 / Pipa / Soft — Asia
+- 011 / Pipa / Bright — Asia
+- 012 / Pipa / Space — Asia
+- 013 / Shamisen / Natural — Asia
+- 014 / Shamisen / Soft — Asia
+- 015 / Shamisen / Bright — Asia
+- 016 / Shamisen / Space — Asia
+- 017 / Sitar / Natural — Asia
+- 018 / Sitar / Soft — Asia
+- 019 / Sitar / Bright — Asia
+- 020 / Sitar / Space — Asia
+- 021 / Bansuri / Natural — Asia
+- 022 / Bansuri / Soft — Asia
+- 023 / Bansuri / Bright — Asia
+- 024 / Bansuri / Space — Asia
+- 025 / Shakuhachi / Natural — Asia
+- 026 / Shakuhachi / Soft — Asia
+- 027 / Shakuhachi / Bright — Asia
+- 028 / Shakuhachi / Space — Asia
+- 029 / Erhu / Natural — Asia
+- 030 / Erhu / Soft — Asia
+- 031 / Erhu / Bright — Asia
+- 032 / Erhu / Space — Asia
+- 033 / Oud / Natural — Middle East
+- 034 / Oud / Soft — Middle East
+- 035 / Oud / Bright — Middle East
+- 036 / Oud / Space — Middle East
+- 037 / Qanun / Natural — Middle East
+- 038 / Qanun / Soft — Middle East
+- 039 / Qanun / Bright — Middle East
+- 040 / Qanun / Space — Middle East
+- 041 / Saz / Natural — Middle East
+- 042 / Saz / Soft — Middle East
+- 043 / Saz / Bright — Middle East
+- 044 / Saz / Space — Middle East
+- 045 / Ney / Natural — Middle East
+- 046 / Ney / Soft — Middle East
+- 047 / Ney / Bright — Middle East
+- 048 / Ney / Space — Middle East
+- 049 / Duduk / Natural — Middle East
+- 050 / Duduk / Soft — Middle East
+- 051 / Duduk / Bright — Middle East
+- 052 / Duduk / Space — Middle East
+- 053 / Zurna / Natural — Middle East
+- 054 / Zurna / Soft — Middle East
+- 055 / Zurna / Bright — Middle East
+- 056 / Zurna / Space — Middle East
+- 057 / Santur / Natural — Middle East
+- 058 / Santur / Soft — Middle East
+- 059 / Santur / Bright — Middle East
+- 060 / Santur / Space — Middle East
+- 061 / Darbuka / Natural — Middle East
+- 062 / Darbuka / Soft — Middle East
+- 063 / Darbuka / Bright — Middle East
+- 064 / Darbuka / Space — Middle East
+- 065 / Kora / Natural — Africa
+- 066 / Kora / Soft — Africa
+- 067 / Kora / Bright — Africa
+- 068 / Kora / Space — Africa
+- 069 / Ngoni / Natural — Africa
+- 070 / Ngoni / Soft — Africa
+- 071 / Ngoni / Bright — Africa
+- 072 / Ngoni / Space — Africa
+- 073 / Mbira / Natural — Africa
+- 074 / Mbira / Soft — Africa
+- 075 / Mbira / Bright — Africa
+- 076 / Mbira / Space — Africa
+- 077 / Kalimba / Natural — Africa
+- 078 / Kalimba / Soft — Africa
+- 079 / Kalimba / Bright — Africa
+- 080 / Kalimba / Space — Africa
+- 081 / Balafon / Natural — Africa
+- 082 / Balafon / Soft — Africa
+- 083 / Balafon / Bright — Africa
+- 084 / Balafon / Space — Africa
+- 085 / Djembe / Natural — Africa
+- 086 / Djembe / Soft — Africa
+- 087 / Djembe / Bright — Africa
+- 088 / Djembe / Space — Africa
+- 089 / Talking Drum / Natural — Africa
+- 090 / Talking Drum / Soft — Africa
+- 091 / Talking Drum / Bright — Africa
+- 092 / Talking Drum / Space — Africa
+- 093 / Udu / Natural — Africa
+- 094 / Udu / Soft — Africa
+- 095 / Udu / Bright — Africa
+- 096 / Udu / Space — Africa
+- 097 / Classical Guitar / Natural — Spain
+- 098 / Classical Guitar / Soft — Spain
+- 099 / Classical Guitar / Bright — Spain
+- 100 / Classical Guitar / Space — Spain
+- 101 / Flamenco Guitar / Natural — Spain
+- 102 / Flamenco Guitar / Soft — Spain
+- 103 / Flamenco Guitar / Bright — Spain
+- 104 / Flamenco Guitar / Space — Spain
+- 105 / Bandurria / Natural — Spain
+- 106 / Bandurria / Soft — Spain
+- 107 / Bandurria / Bright — Spain
+- 108 / Bandurria / Space — Spain
+- 109 / Laud / Natural — Spain
+- 110 / Laud / Soft — Spain
+- 111 / Laud / Bright — Spain
+- 112 / Laud / Space — Spain
+- 113 / Spanish Lute / Natural — Spain
+- 114 / Spanish Lute / Soft — Spain
+- 115 / Spanish Lute / Bright — Spain
+- 116 / Spanish Lute / Space — Spain
+- 117 / Castanets / Natural — Spain
+- 118 / Castanets / Soft — Spain
+- 119 / Castanets / Bright — Spain
+- 120 / Castanets / Space — Spain
+- 121 / Palmas / Natural — Spain
+- 122 / Palmas / Soft — Spain
+- 123 / Palmas / Bright — Spain
+- 124 / Palmas / Space — Spain
+- 125 / Guitar Harmonics / Natural — Spain
+- 126 / Guitar Harmonics / Soft — Spain
+- 127 / Guitar Harmonics / Bright — Spain
+- 128 / Guitar Harmonics / Space — Spain
+- 129 / Tenor Steelpan / Natural — Caribbean
+- 130 / Tenor Steelpan / Soft — Caribbean
+- 131 / Tenor Steelpan / Bright — Caribbean
+- 132 / Tenor Steelpan / Space — Caribbean
+- 133 / Cello Steelpan / Natural — Caribbean
+- 134 / Cello Steelpan / Soft — Caribbean
+- 135 / Cello Steelpan / Bright — Caribbean
+- 136 / Cello Steelpan / Space — Caribbean
+- 137 / Marimbula / Natural — Caribbean
+- 138 / Marimbula / Soft — Caribbean
+- 139 / Marimbula / Bright — Caribbean
+- 140 / Marimbula / Space — Caribbean
+- 141 / Cuban Tres / Natural — Caribbean
+- 142 / Cuban Tres / Soft — Caribbean
+- 143 / Cuban Tres / Bright — Caribbean
+- 144 / Cuban Tres / Space — Caribbean
+- 145 / Bongos / Natural — Caribbean
+- 146 / Bongos / Soft — Caribbean
+- 147 / Bongos / Bright — Caribbean
+- 148 / Bongos / Space — Caribbean
+- 149 / Congas / Natural — Caribbean
+- 150 / Congas / Soft — Caribbean
+- 151 / Congas / Bright — Caribbean
+- 152 / Congas / Space — Caribbean
+- 153 / Guiro / Natural — Caribbean
+- 154 / Guiro / Soft — Caribbean
+- 155 / Guiro / Bright — Caribbean
+- 156 / Guiro / Space — Caribbean
+- 157 / Maracas / Natural — Caribbean
+- 158 / Maracas / Soft — Caribbean
+- 159 / Maracas / Bright — Caribbean
+- 160 / Maracas / Space — Caribbean
